@@ -1,0 +1,39 @@
+a:link {
+    color: rgb(70, 0, 246);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+a:hover {
+    color: hotpink;
+  }
+
+.links{
+    display: flex;
+}
+.mainpage{
+    padding-left: 45px;
+    background-color: orange;
+    
+  }
+
+.page{
+    display: flex;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.Maintitle::first-letter {
+    font-size: 200%;
+    color: black;
+}
+.Maintitle{
+    font-size: larger;
+}
+.title{
+    line-height: 1em;
+    padding-top: 27px;
+}
+.avatar2{
+    line-height: 1em;
+    margin-top: -25px;
+}
